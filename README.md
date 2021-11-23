@@ -10,3 +10,5 @@
 ![image](https://user-images.githubusercontent.com/53999702/142715485-3b74dba8-4893-42b7-ac73-c072dce6a2b5.png)
 
 Различие во времени объясняется тем, что в Python циклы while работают медленнее чем for. Так же, итоговый код работает быстрее за счет использование библиотеки numpy. 
+Скриншот доктестов: <br>
+![image](https://user-images.githubusercontent.com/53999702/142985373-4298feb1-2ef1-4b1f-81c5-9dc65bd204d3.png)
